@@ -1,4 +1,4 @@
-# Github-Candidate-Search
+# Github-Candidate-Search🔍
 
 ## Website URL
 [GitHub Candidate Search](https://githubcandidatesearch.netlify.app/)
