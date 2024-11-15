@@ -1,7 +1,7 @@
 # Github-Candidate-Search
 
 ## Website URL
-**[githubcandidatesearch.netlify.app]([githubcandidatesearch.netlify.app](https://githubcandidatesearch.netlify.app/))**
+[GitHub Candidate Search](https://githubcandidatesearch.netlify.app/)
 
 ## Description
 
